@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Bob Schadenberg, PhD, prof. Gwenn Englebienne. 
 
 * Summer 2023: Automation Intern
-  * Audi AG
+  * Audi AG Brussels manufacturing plant
   * Duties included: Automated processes, creating dashboards and developing a potential application in ReactJS and Python for inventory management of the assets.
   
 
