@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "pasfoto.jpeg.jpeg"
   name             : "Arjan Faber"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Edinburgh University"
+  pronouns         : # example: "he/him"  
+  bio              : "ML engineer"
+  location         : "Amsterdam, the Netherlands"
+  employer         : "The University of Edinburgh"
   uri              : # URL
   email            : "arjan.bl.faber@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -120,7 +120,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
