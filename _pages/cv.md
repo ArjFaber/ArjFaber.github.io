@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Technology & Innovation, The University of Edinburgh, 2025 (expected)
+* B.S. in Econometrics & Operations Research, University of Groningen, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2024 - Present: ML Research Engineer
+  * University of Twente
+  * Duties includes: Developing SLAM and OpenPose wrapper in ROS for navigation and detecting human body and facial expressions from keypoints on single images and videos for data collection. (Used lidar sensor, RealSense cameras and Kinect on a Kuka iDo robot). Developing a deep reinforcement learning from demonstration module for social behavior acquisition of service robots in healthcare. 
+  * Supervisor: Bob Schadenberg, PhD, prof. Gwenn Englebienne. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Automation Intern
+  * Audi AG
+  * Duties included: Automated processes, creating dashboards and developing a potential application in ReactJS and Python for inventory management of the assets.
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Stress Testing Intern
+  * Dutch Central Bank
+  * Duties included: Validation of several regression models for stress testing.
+
+* Augustus 2021 - January 2022: Quantitative Modeller Intern
+  * Achmea
+  * Duties included: Converted modules for a stochastic model in MATLAB to Python code and implemented option pricing models.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Game Theory, statistical Machine Learning, stochastic processes in Machine Learning and Reinforcement Learning.
+* Programming
+  * Python , C#, C, C++20 (memory,clang,gtest), MATLAB, R, ReactJS, ROS1/ROS2  and LaTex.  
 
 Publications
 ======
@@ -61,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Investment Analyst, Senior Investment Team (2019), Financial Study Association Groningen. 
+* External Affairs Officer, International Programme Committee (2019), Econometric Study Association Groningen (VESTING)
+* Chairman '17-'18, Sports committee, Econometric Study Association Groningen (VESTING)
