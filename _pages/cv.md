@@ -37,8 +37,8 @@ Work experience
   
 Skills
 ======
-* Game Theory, statistical Machine Learning, stochastic processes in Machine Learning and Reinforcement Learning.
-* Programming
+* Dynamic econometrics, time-series analysis, operations research 
+* Programming:
   * Python , C#, C, C++20 (memory,clang,gtest), MATLAB, R, ReactJS, ROS1/ROS2  and LaTex.  
 
 Publications
