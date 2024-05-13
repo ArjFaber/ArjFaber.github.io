@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal site"
+title                    : "Arjan Faber"
 title_separator          : "-"
 name                     : &name "Arjan Faber"
 description              : &description "personal description"
