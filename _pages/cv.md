@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, Technology & Innovation, The University of Edinburgh, 2025 (expected)
+* M.S. in Data Science with High Performance Computing, The University of Edinburgh, 2025 (expected)
 * B.S. in Econometrics & Operations Research, University of Groningen, 2022
 
 Work experience
