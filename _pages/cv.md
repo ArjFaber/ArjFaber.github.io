@@ -18,17 +18,9 @@ Work experience
 ======
 * January 2024 - Present: ML Research Engineer
   * University of Twente
-  * Duties includes: Developing SLAM and OpenPose wrapper in ROS for navigation and detecting human body and facial expressions from keypoints on single images and videos for data collection. (Used lidar sensor, RealSense cameras and Kinect on a Kuka iDo robot). Developing a deep reinforcement learning from demonstration module for social behavior acquisition of service robots in healthcare. 
+  * Developed a deep reinforcement learning module for social behavior acquisition of service robots in hospitals. Implemented both inverse reinforcement learning (MaxEnt IRL) and deep reinforcement learning (deep Q-learning). Running a large data collection study, collecting over 3mln data points, and implemented OpenPose deep learning algorithm in ROS Noetic for detecting human body and facial expressions from keypoints on single images and videos. (Used lidar sensor, RealSense cameras and Kinect on a Kuka iDo robot). Implemented 5-Fold CV, introduced metrics such as macro-averaged precision, used oversampling for an imbalanced dataset and adjusted labels based on confidence intervals with a logistic regression model.  
+
   * Supervisor: Bob Schadenberg, PhD, prof. Gwenn Englebienne. 
-
-* Summer 2023: Automation Intern
-  * Audi AG Brussels manufacturing plant
-  * Duties included: Automated processes, creating dashboards and developing a potential application in ReactJS and Python for inventory management of the assets.
-  
-
-* Summer 2022: Stress Testing Intern
-  * Dutch Central Bank
-  * Duties included: Validation of several regression models for stress testing.
 
 * Augustus 2021 - January 2022: Quantitative Modeller Intern
   * Achmea
