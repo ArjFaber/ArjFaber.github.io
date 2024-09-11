@@ -202,7 +202,7 @@ collections:
   #teaching:
   #  output: false
   #  permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
   #portfolio:
