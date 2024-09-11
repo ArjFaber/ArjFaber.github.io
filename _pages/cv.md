@@ -31,9 +31,9 @@ Skills
 * Programming:
   * Python , C#, C, C++20 (memory,clang,gtest), MATLAB, R, ReactJS, ROS1/ROS2  and LaTex.  
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publication reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
