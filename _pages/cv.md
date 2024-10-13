@@ -18,11 +18,8 @@ Education
 Work experience
 ======
 * January 2024 - July 2024: ML Research Engineer, University of Twente, Enschede, NL.
-  * Duties included: 1. Developed a deep reinforcement learning module for social behavior acquisition of service robots in hospitals. 2.Implemented both inverse reinforcement learning (MaxEnt IRL) and deep reinforcement learning (deep Q-learning). 3. Running a large data collection study, collecting over 3mln data points, and implemented OpenPose deep learning algorithm in ROS Noetic for detecting human body and facial expressions from keypoints on single images and videos. (Used lidar sensor, RealSense cameras and Kinect on a Kuka iDo robot). 4. Implemented 5-Fold CV, introduced metrics such as macro-averaged precision, used oversampling for an imbalanced dataset and adjusted labels based on confidence intervals with a logistic regression model.  
-
 * Augustus 2021 - January 2022: Quantitative Modeller Intern, Achmea, Apeldoorn, NL.
-  * Duties included: Converted modules for a stochastic model in MATLAB to Python code and implemented option pricing models.
-  
+   
   
 Skills
 ======
