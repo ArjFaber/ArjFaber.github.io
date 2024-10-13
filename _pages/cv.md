@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* January 2024 - July 2024: ML Research Engineer, University of Twente, Enschede, NL.
-* Augustus 2021 - January 2022: Quantitative Modeller Intern, Achmea, Apeldoorn, NL.
+* ML Research Engineer, University of Twente, Enschede, NL. (January 2024 - July 2024).
+* Quantitative Modeller Intern, Achmea, Apeldoorn, NL. (Augustus 2021 - January 2022).
    
   
 Skills
