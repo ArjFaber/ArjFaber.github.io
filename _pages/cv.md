@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science with High Performance Computing, The University of Edinburgh, 2025 (expected).
+* M.S. in Data Science,Technology & Innovation (path: High Performance Computing), The University of Edinburgh, 2025 (expected).
 * Extracurricular graduate course Computational Fluid Dynamics (097634), Politecnico di Milano, 2024.
 * B.S. in Econometrics & Operations Research, University of Groningen, 2023.
 
